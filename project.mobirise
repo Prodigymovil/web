@@ -262,9 +262,10 @@
               "name": "sale",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#features1-3",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media2": {
@@ -274,9 +275,10 @@
               "name": "cart-add",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page4.html#header1-r",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media3": {
@@ -286,9 +288,10 @@
               "name": "viber",
               "family": "socicon",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "index.html#header3-a",
               "size": "41",
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media4": {
@@ -298,9 +301,10 @@
               "name": "touch",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page2.html#header1-t",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media5": {
@@ -310,9 +314,10 @@
               "name": "like",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "page1.html#header1-u",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "media6": {

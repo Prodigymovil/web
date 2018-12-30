@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Prodigy tres",
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -349,7 +349,7 @@
           "title2": "<a href=\"page4.html#header1-r\" class=\"text-black\">Recargas</a>",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "<a href=\"index.html#header3-9\" class=\"text-black\">Tarifas</a>",
+          "title3": "<a href=\"index.html#header1-h\" class=\"text-black\">Tarifas</a>",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "<a href=\"page2.html#header1-t\" class=\"text-black\">Activa tu SIM</a>",
@@ -961,7 +961,7 @@
           },
           "title": "Recarga tu Prodigy",
           "text": "Recarga online y en nuestros puntos de venta todos tus bonos y tarifas prepago con bonos predefinidos y configurables\npara poder hablar y navegar fácilmente.\n<br>Combina bonos de voz y datos de manera libre para crear la tarifa a tu medida.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Recarga</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Regresar al Home</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Recarga</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#features7-2\" data-toolbar=\"-mbrBtnMove\">Regresar al Home</a>",
           "_tags": [
             "Tema"
           ],
@@ -1146,7 +1146,7 @@
           },
           "title": "Registra y activa tu SIM",
           "text": "Necesitarás un documento de identidad en vigor (DNI, NIE o pasaporte). \n<br>Sitúate en un lugar bien iluminado y asegúrate de que \n<br>la cámara de tu dispositivo funcione correctamente.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Recarga</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Regresar al Home</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Recarga</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#features7-2\" data-toolbar=\"-mbrBtnMove\">Regresar al Home</a>",
           "_tags": [
             "Tema"
           ],
@@ -1473,7 +1473,7 @@
           },
           "title": "Recarga tu Prodigy",
           "text": "Recarga online y en nuestros puntos de venta todos tus bonos y tarifas prepago con bonos predefinidos y configurables\npara poder hablar y navegar fácilmente.\n<br>Combina bonos de voz y datos de manera libre para crear la tarifa a tu medida.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Recarga</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Regresar al Home</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Recarga</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"index.html#features7-2\" data-toolbar=\"-mbrBtnMove\">Regresar al Home</a>",
           "_tags": [
             "Tema"
           ],
